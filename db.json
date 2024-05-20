@@ -1,14 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    {
+      "id": 1,
+      "name": "Juan"
+    },
+    {
+      "id": 2,
+      "name": "Miguel"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "accounts": [
+    {
+      "id": 1,
+      "accountNo": "123",
+      "balance": 500,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "accountNo": "456",
+      "balance": 100,
+      "userId": 2
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "transactions": [
+    {
+      "accountId": 1,
+      "userId": 1,
+      "transactionId": 1,
+      "description": "G-cash transfer",
+      "amount": 100
+    }
+  ]
 }
