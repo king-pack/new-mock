@@ -30,6 +30,27 @@
       "transactionId": 1,
       "description": "G-cash transfer",
       "amount": 100
+    },
+    {
+      "accountId": 2,
+      "userId": 2,
+      "transactionId": 2,
+      "description": "Maya transfer",
+      "amount": 100
+    },
+    {
+      "accountId": 1,
+      "userId": 1,
+      "transactionId": 3,
+      "description": "Received",
+      "amount": 100
+    },
+    {
+      "accountId": 1,
+      "userId": 1,
+      "transactionId": 4,
+      "description": "G-cash transfer",
+      "amount": 100
     }
   ]
 }
