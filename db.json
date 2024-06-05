@@ -80,5 +80,27 @@
       "description": "G-cash transfer",
       "amount": 124
     }
+  ],
+  "cashInVia": [
+    {
+      "channelId": 1,
+      "channelName": "Gcash"
+    },
+    {
+      "channelId": 2,
+      "channelName": "Maya"
+    },
+    {
+      "channelId": 3,
+      "channelName": "Generate QR"
+    },
+    {
+      "channelId": 4,
+      "channelName": "Gcash"
+    },
+    {
+      "channelId": 5,
+      "channelName": "Maya"
+    }
   ]
 }
