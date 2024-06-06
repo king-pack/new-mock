@@ -84,11 +84,13 @@
   "cashInVia": [
     {
       "channelId": 1,
-      "channelName": "Gcash"
+      "channelName": "Gcash",
+      "charge": 20
     },
     {
       "channelId": 2,
-      "channelName": "Maya"
+      "channelName": "Maya",
+      "charge": 50
     },
     {
       "channelId": 3,
@@ -96,11 +98,13 @@
     },
     {
       "channelId": 4,
-      "channelName": "Gcash"
+      "channelName": "Gcash",
+      "charge": 100
     },
     {
       "channelId": 5,
-      "channelName": "Maya"
+      "channelName": "Maya",
+      "charge": 300
     }
   ]
 }
