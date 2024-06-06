@@ -106,5 +106,21 @@
       "channelName": "Maya",
       "charge": 300
     }
-  ]
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "message": "You received 123123123",
+      "sender": "gcash",
+      "status": "Success transfer"
+      "createdAt": "July 05, 2023"
+    },
+    {
+      "id": 2,
+      "message": "Failed to transfer 123123123",
+      "sender": "gcash",
+      "status": "fail"
+      "createdAt": "July 05, 2023"
+    }
+  ],
 }
