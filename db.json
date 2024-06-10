@@ -83,26 +83,26 @@
   ],
   "cashInVia": [
     {
-      "channelId": 1,
+      "id": 1,
       "channelName": "Gcash",
       "charge": 20
     },
     {
-      "channelId": 2,
+      "id": 2,
       "channelName": "Maya",
       "charge": 50
     },
     {
-      "channelId": 3,
+      "id": 3,
       "channelName": "Generate QR"
     },
     {
-      "channelId": 4,
+      "id": 4,
       "channelName": "Gcash",
       "charge": 100
     },
     {
-      "channelId": 5,
+      "id": 5,
       "channelName": "Maya",
       "charge": 300
     }
