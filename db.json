@@ -148,7 +148,8 @@
     },
     {
       "id": 3,
-      "channelName": "Generate QR"
+      "channelName": "Generate QR",
+      "link": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=Example"
     },
     {
       "id": 4,
