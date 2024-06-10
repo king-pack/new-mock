@@ -85,12 +85,66 @@
     {
       "id": 1,
       "channelName": "Gcash",
-      "charge": 20
+      "charge": 20,
+      "steps": [
+        {
+          "id": 1,
+          "sequence": 1,
+          "step": "Open Gcash app"
+        },
+        {
+          "id": 2,
+          "sequence": 2,
+          "step": "Select view all bank transfer"
+        },
+        {
+          "id": 3,
+          "sequence": 3,
+          "step": "Enter amount to transfer"
+        },
+        {
+          "id": 4,
+          "sequence": 4,
+          "step": "Enter receivers account number"
+        },
+        {
+          "id": 5,
+          "sequence": 5,
+          "step": "Click on Send Money to finish the transaction"
+        }
+      ]
     },
     {
       "id": 2,
       "channelName": "Maya",
-      "charge": 50
+      "charge": 50,
+      "steps": [
+        {
+          "id": 1,
+          "sequence": 1,
+          "step": "Open Maya app"
+        },
+        {
+          "id": 2,
+          "sequence": 2,
+          "step": "Select view all bank transfer"
+        },
+        {
+          "id": 3,
+          "sequence": 3,
+          "step": "Enter amount to transfer"
+        },
+        {
+          "id": 4,
+          "sequence": 4,
+          "step": "Enter receivers account number"
+        },
+        {
+          "id": 5,
+          "sequence": 5,
+          "step": "Click on Send Money to finish the transaction"
+        }
+      ]
     },
     {
       "id": 3,
@@ -99,12 +153,66 @@
     {
       "id": 4,
       "channelName": "Gcash",
-      "charge": 100
+      "charge": 100,
+      "steps": [
+        {
+          "id": 1,
+          "sequence": 1,
+          "step": "Open Gcash app"
+        },
+        {
+          "id": 2,
+          "sequence": 2,
+          "step": "Select view all bank transfer"
+        },
+        {
+          "id": 3,
+          "sequence": 3,
+          "step": "Enter amount to transfer"
+        },
+        {
+          "id": 4,
+          "sequence": 4,
+          "step": "Enter receivers account number"
+        },
+        {
+          "id": 5,
+          "sequence": 5,
+          "step": "Click on Send Money to finish the transaction"
+        }
+      ]
     },
     {
       "id": 5,
       "channelName": "Maya",
-      "charge": 300
+      "charge": 300,
+      "steps": [
+        {
+          "id": 1,
+          "sequence": 1,
+          "step": "Open Maya app"
+        },
+        {
+          "id": 2,
+          "sequence": 2,
+          "step": "Select view all bank transfer"
+        },
+        {
+          "id": 3,
+          "sequence": 3,
+          "step": "Enter amount to transfer"
+        },
+        {
+          "id": 4,
+          "sequence": 4,
+          "step": "Enter receivers account number"
+        },
+        {
+          "id": 5,
+          "sequence": 5,
+          "step": "Click on Send Money to finish the transaction"
+        }
+      ]
     }
   ],
   "messages": [
