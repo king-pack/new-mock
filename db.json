@@ -13,13 +13,13 @@
     {
       "id": 1,
       "accountNo": "123",
-      "balance": 500,
+      "balance": 500.00,
       "userId": 1
     },
     {
       "id": 2,
       "accountNo": "456",
-      "balance": 100,
+      "balance": 100.00,
       "userId": 2
     }
   ],
