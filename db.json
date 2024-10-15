@@ -30,7 +30,8 @@
       "userId": 1,
       "transactionId": 1,
       "description": "G-cash transfer",
-      "amount": 100
+      "amount": 100,
+      "createdAt": "July 9, 2023"
     },
     {
       "id": 2,
@@ -38,7 +39,8 @@
       "userId": 2,
       "transactionId": 2,
       "description": "Maya transfer",
-      "amount": 200
+      "amount": 200,
+      "createdAt": "July 10, 2023"
     },
     {
       "id": 3,
@@ -46,7 +48,8 @@
       "userId": 1,
       "transactionId": 3,
       "description": "Received",
-      "amount": 480
+      "amount": 480,
+      "createdAt": "July 11, 2023"
     },
     {
       "id": 4,
@@ -54,7 +57,8 @@
       "userId": 1,
       "transactionId": 4,
       "description": "G-cash transfer",
-      "amount": 2115
+      "amount": 2115,
+      "createdAt": "July 12, 2023"
     },
     {
       "id": 5,
@@ -62,7 +66,8 @@
       "userId": 1,
       "transactionId": 5,
       "description": "Received",
-      "amount": 1954
+      "amount": 1954,
+      "createdAt": "July 22, 2023"
     },
     {
       "id": 6,
@@ -70,7 +75,8 @@
       "userId": 1,
       "transactionId": 6,
       "description": "Maya",
-      "amount": 214
+      "amount": 214,
+      "createdAt": "July 25, 2023"
     },
     {
       "id": 7,
@@ -78,7 +84,8 @@
       "userId": 1,
       "transactionId": 7,
       "description": "Cash Out",
-      "amount": 661
+      "amount": 661,
+      "createdAt": "July 05, 2023"
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "userId": 1,
       "transactionId": 8,
       "description": "G-cash transfer",
-      "amount": 124
+      "amount": 124,
+      "createdAt": "July 05, 2023"
     }
   ],
   "cashInVia": [
